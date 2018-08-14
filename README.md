@@ -2,6 +2,6 @@
 
 ## Presentation files from the June 2018 meeting
 
-- Module of the Month - itertools (Wolf)
-
-- Main Talk - Trio (Mike Birdsall)
+- Beginners Corner - the 'with' statement (Mike Bernson)
+- Module of the Month - itertools (Mike Birdsall)
+- Main Talk - Trio (Wolf)
